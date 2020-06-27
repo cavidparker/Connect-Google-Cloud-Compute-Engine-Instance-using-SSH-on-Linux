@@ -17,5 +17,5 @@
 ### STEP 5 :
 - ssh -i gcp user_name@your_ip_address
 
-### STEP 6 :
+### STEP 6:
 
