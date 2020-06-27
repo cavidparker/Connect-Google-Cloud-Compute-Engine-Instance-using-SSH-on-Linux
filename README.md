@@ -16,6 +16,9 @@
 
 ### STEP 5 :
 - ssh -i gcp user_name@your_ip_address
+- ssh -i gcp alien@35.2.0.0.0
 
-### STEP 6:
+## HOW TO RUN :
+- GO To : cd ~/.ssh 
+- ssh -i gcp alien@your_IP
 
