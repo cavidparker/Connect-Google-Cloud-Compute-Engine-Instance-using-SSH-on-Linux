@@ -22,3 +22,9 @@
 - GO To : cd ~/.ssh 
 - ssh -i gcp alien@your_External IP
 
+## HOW To Transfer file from computer to GCP :
+
+- scp file_name yourhostname@Your_IP:your GCP directory(where you want to sent the file)
+
+- scp image_resize.py alien@34.71.0.0.0:/home/alien
+
