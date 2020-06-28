@@ -20,5 +20,5 @@
 
 ## HOW TO RUN :
 - GO To : cd ~/.ssh 
-- ssh -i gcp alien@your_IP
+- ssh -i gcp alien@your_External IP
 
