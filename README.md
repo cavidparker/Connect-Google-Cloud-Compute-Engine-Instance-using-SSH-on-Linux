@@ -28,3 +28,7 @@
 
 - scp image_resize.py alien@34.71.0.0.0:/home/alien
 
+## Quickstart for Debian and Ubuntu :
+- 1st step : Add the Cloud SDK distribution URI as a package source
+- echo "deb [signed-by=/usr/share/keyrings/cloud.google.gpg] http://packages.cloud.google.com/apt cloud-sdk main" | sudo tee -a /etc/apt/sources.list.d/google-cloud-sdk.list
+
