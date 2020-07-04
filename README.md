@@ -37,3 +37,8 @@
 - sudo apt-get update && sudo apt-get install google-cloud-sdk
 - ### LINK : https://cloud.google.com/sdk/docs/quickstart-debian-ubuntu
 
+## Step:
+
+- gcloud app deploy app.yaml --project project_name
+
+
