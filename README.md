@@ -38,7 +38,7 @@
 - ### LINK : https://cloud.google.com/sdk/docs/quickstart-debian-ubuntu
 
 ## Step:
-
+- gcloud init
 - gcloud app deploy app.yaml --project project_name
 
 
